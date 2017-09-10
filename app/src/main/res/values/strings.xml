@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+
+    <string name="book_name">Book</string>
+    <string name="drink">Drink</string>
+    <string name="hours">Hours</string>
+    <string name="enter_book">enter book</string>
+    <string name="enter_drink">enter drink</string>
+    <string name="enter_hours">number of hours</string>
+    <string name ="datainsert">Habit tracker saveed with row</string>
+    <string name="faildinsert">data not insert</string>
+
+</resources>
